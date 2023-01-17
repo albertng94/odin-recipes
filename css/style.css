@@ -1,0 +1,42 @@
+.common {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h1 {
+    background-color: darkslategrey;
+    color: white;
+    font-size: 60px;
+}
+
+.button {
+    background-color:  hsl(174, 62%, 64%);
+    font-weight: bold;
+}
+
+.para {
+    text-align: left;
+}
+
+.red {
+    background-color:  hsla(6, 60%, 45%, 0.736);
+    color: rgba(255, 255, 0, 0.829);
+}
+
+.h1,
+.red {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2.red {
+    font-size: 35px;
+}
+
+h3.red {
+    font-size: 25px;
+}
+
+.yellow,
+.button {
+    font-size: 18px;
+}
